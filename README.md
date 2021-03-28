@@ -1,5 +1,10 @@
 ## Welcome to Bryan's Page
 
+![image](https://user-images.githubusercontent.com/59910759/112749257-5f117c00-8feb-11eb-82ab-5cb953a0bba8.png)
+
+[Assignment Link](www.github.com)
+
+
 You can use the [editor on GitHub](https://github.com/bryandts7/bryandts7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -35,5 +40,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-https://images.unsplash.com/photo-1616878454012-966ce24cc4de?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80
