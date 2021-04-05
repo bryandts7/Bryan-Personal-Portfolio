@@ -4,6 +4,9 @@
 
 [Check My Data Analysis!](https://github.com/bryandts7/Personal-Portfolio/blob/main/Data%20Analysis%20for%20NBA%20Influencer_Bryan%20Delton.pdf)
 
+What is Domain Analysis ?
+
+![image](https://user-images.githubusercontent.com/59910759/113586900-4e4eaf00-9658-11eb-918f-f62c0bbfca6e.png)
 
 You can use the [editor on GitHub](https://github.com/bryandts7/bryandts7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
