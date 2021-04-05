@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/59910759/112749257-5f117c00-8feb-11eb-82ab-5cb953a0bba8.png)
 
-[Assignment Link](www.github.com)
+[Check My Data Analysis!](https://github.com/bryandts7/bryandts7.github.io/blob/main/Data%20Analysis%20for%20NBA%20Influencer_Bryan%20Delton.pdf)
 
 
 You can use the [editor on GitHub](https://github.com/bryandts7/bryandts7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
